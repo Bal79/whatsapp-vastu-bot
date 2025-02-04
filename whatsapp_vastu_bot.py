@@ -1,4 +1,4 @@
-C:\Users\iam_b>pip install flask openai twilio
+
 Collecting flask
   Using cached flask-3.1.0-py3-none-any.whl.metadata (2.7 kB)
 Collecting openai
