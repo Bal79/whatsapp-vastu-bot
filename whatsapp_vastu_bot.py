@@ -75,7 +75,7 @@ Collecting urllib3<3,>=1.21.1 (from requests>=2.0.0->twilio)
 Using cached flask-3.1.0-py3-none-any.whl (102 kB)
 Downloading openai-1.61.0-py3-none-any.whl (460 kB)
 Downloading twilio-9.4.4-py2.py3-none-any.whl (1.9 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.9/1.9 MB 12.9 MB/s eta 0:00:00
+ 1.9/1.9 MB 12.9 MB/s eta 0:00:00
 Downloading aiohttp-3.11.11-cp313-cp313-win_amd64.whl (436 kB)
 Downloading aiohttp_retry-2.9.1-py3-none-any.whl (10.0 kB)
 Downloading anyio-4.8.0-py3-none-any.whl (96 kB)
@@ -89,7 +89,7 @@ Using cached jinja2-3.1.5-py3-none-any.whl (134 kB)
 Downloading jiter-0.8.2-cp313-cp313-win_amd64.whl (203 kB)
 Downloading pydantic-2.10.6-py3-none-any.whl (431 kB)
 Downloading pydantic_core-2.27.2-cp313-cp313-win_amd64.whl (2.0 MB)
-   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.0/2.0 MB 25.7 MB/s eta 0:00:00
+2.0/2.0 MB 25.7 MB/s eta 0:00:00
 Downloading PyJWT-2.10.1-py3-none-any.whl (22 kB)
 Downloading requests-2.32.3-py3-none-any.whl (64 kB)
 Downloading sniffio-1.3.1-py3-none-any.whl (10 kB)
@@ -112,4 +112,4 @@ Downloading yarl-1.18.3-cp313-cp313-win_amd64.whl (315 kB)
 Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
 Downloading h11-0.14.0-py3-none-any.whl (58 kB)
 Installing collected packages: urllib3, typing-extensions, sniffio, PyJWT, propcache, multidict, MarkupSafe, jiter, itsdangerous, idna, h11, frozenlist, distro, colorama, charset-normalizer, certifi, blinker, attrs, annotated-types, aiohappyeyeballs, yarl, Werkzeug, tqdm, requests, pydantic-core, Jinja2, httpcore, click, anyio, aiosignal, pydantic, httpx, flask, aiohttp, openai, aiohttp-retry, twilio
-Successfully installed Jinja2-3.1.5 MarkupSafe-3.0.2 PyJWT-2.10.1 Werkzeug-3.1.3 aiohappyeyeballs-2.4.4 aiohttp-3.11.11 aiohttp-retry-2.9.1 aiosignal-1.3.2 annotated-types-0.7.0 anyio-4.8.0 attrs-25.1.0 blinker-1.9.0 certifi-2025.1.31 charset-normalizer-3.4.1 click-8.1.8 colorama-0.4.6 distro-1.9.0 flask-3.1.0 frozenlist-1.5.0 h11-0.14.0 httpcore-1.0.7 httpx-0.28.1 idna-3.10 itsdangerous-2.2.0 jiter-0.8.2 multidict-6.1.0 openai-1.61.0 propcache-0.2.1 pydantic-2.10.6 pydantic-core-2.27.2 requests-2.32.3 sniffio-1.3.1 tqdm-4.67.1 twilio-9.4.4 typing-extensions-4.12.2 urllib3-2.3.0 yarl-1.18.3
+Successfully installed Jinja2-3.1.5 MarkupSafe-3.0.2 PyJWT-2.10.1 Werkzeug-3.1.3 aiohappyeyeballs-2.4.4 aiohttp-3.11.11 aiohttp-retry-2.9.1 aiosignal-1.3.2 annotated-types-0.7.0 anyio-4.8.0 attrs-25.1.0 blinker-1.9.0 certifi-2025.1.31 charset-normalizer-3.4.1 click-8.1.8 colorama-0.4.6 distro-1.9.0 flask-3.1.0 frozenlist-1.5.0 h11-0.14.0 httpcore-1.0.7 httpx-0.28.1 idna-3.10 itsdangerous-2.2.0 jiter-0.8.2 multidict-6.1.0 openai-1.61.0 propcache-0.2.1 pydantic-2.10.6 pydantic-core-2.27.2 requests-2.32.3 sniffio-1.3.1 tqdm-4.67.1 twilio-9.4.4 typing-extensions-4.12.2 urllib3-2.3.0 yarl-1.18.3 if __name__ == "__main__": app.run(host="0.0.0.0", port=5000, debug=True)
